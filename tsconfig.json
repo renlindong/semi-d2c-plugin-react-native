@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    "module": "CommonJS",
+    "skipLibCheck": true
+    // "paths": {
+    //   "../*": ["./src/*"]
+    // }
+  },
+  "exclude": ["node_modules"]
+  // "include": ["./node_modules/@figma"]
+}
